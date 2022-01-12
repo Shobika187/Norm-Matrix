@@ -17,7 +17,7 @@ import numpy as np
 n=np.array(eval(input()))
 ans=np.linalg.norm(n,2)
 b="{:.2f}".format(ans)
-print(b)
+prinr(b)
 
 ```
 ## Sample Input and Output:
